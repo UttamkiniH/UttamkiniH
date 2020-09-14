@@ -32,6 +32,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UttamkiniH&repo=Git-Workshop&theme=dark)](https://github.com/UttamkiniH/Git-Workshop)
 
 </br>
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/4asztzxhqswt9c2fh3q7gichw)]
