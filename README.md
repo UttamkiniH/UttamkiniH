@@ -2,9 +2,9 @@
 
 ## Ready to be lightnised :zap:
 
-[![Linkedin](http://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/uttam-kini/) [![Linkedin](http://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/uttam-kini/)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+
+[![Twitter Follow](https://img.shields.io/badge/Twitter-Follow-00ccff?style=for-the-badge&logo=Twitter&logoColor=White&logoWidth=25&labelColor=00acee)](https://twitter.com/furore_04)
 
 ## I'm a Husband, Father, Developer, and Teacher!
 
@@ -101,9 +101,9 @@
 </details>
 
 
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: 
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
