@@ -2,8 +2,9 @@
 
 ## Ready to be lightnised :zap:
 
+**Take a peek** :eyes:
 
-
+[![Linkedin Follow](https://img.shields.io/badge/Linkedin-Follow-1197d4?style=for-the-badge&logo=linkedin&labelColor=0e76a8)](https://www.linkedin.com/in/uttam-kini/)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-Follow-00ccff?style=for-the-badge&logo=Twitter&logoColor=White&logoWidth=25&labelColor=00acee)](https://twitter.com/furore_04)
 
 ## I'm a Husband, Father, Developer, and Teacher!
