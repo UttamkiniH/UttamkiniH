@@ -15,10 +15,6 @@
 ### 📕 Latest Blog Posts
 
 + [Understanding Git and GitHub](https://medium.com/@huttamkini23/understanding-git-and-github-1cb138b8648b)
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/4asztzxhqswt9c2fh3q7gichw)
-</br>
-
 
 ### Languages :page_facing_up: and Tools :wrench: 
 
@@ -31,7 +27,11 @@
 
 ## Activity
 
-[![Uttam's github stats](https://github-readme-stats.vercel.app/api?username=UttamkiniH&theme=dark&show_icons=true)
-
-
+[![Uttam's github stats](https://github-readme-stats.vercel.app/api?username=UttamkiniH&theme=dark&show_icons=true)] (https://github.com/UttamkiniH/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UttamkiniH&repo=Git-Workshop&theme=dark)](https://github.com/UttamkiniH/Git-Workshop)
+
+</br>
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/4asztzxhqswt9c2fh3q7gichw)
+</br>
+
