@@ -12,14 +12,13 @@
 
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="30" height="30"/>
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/4asztzxhqswt9c2fh3q7gichw)
-
-</br>
-
 ### 📕 Latest Blog Posts
 
 + [Understanding Git and GitHub](https://medium.com/@huttamkini23/understanding-git-and-github-1cb138b8648b)
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/4asztzxhqswt9c2fh3q7gichw)
+</br>
+
 
 ### Languages :page_facing_up: and Tools :wrench: 
 
