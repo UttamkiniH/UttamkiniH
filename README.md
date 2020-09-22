@@ -34,6 +34,7 @@
 ![Uttam's github stats](https://github-readme-stats.vercel.app/api?username=UttamkiniH&theme=dark&show_icons=true)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UttamkiniH&repo=Git-Workshop&theme=dark)](https://github.com/UttamkiniH/Git-Workshop)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UttamkiniH&repo=Portfolio&theme=dark)](https://github.com/UttamkiniH/Portfolio)
 
 </br>
 
