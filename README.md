@@ -21,7 +21,7 @@
 ### Languages :page_facing_up: and Tools :wrench: 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Android Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/34/20200802160428%21Android_Studio_icon.svg" />
+<img align="left" alt="Android Studio" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fandroid-developers.googleblog.com%2F2020%2F02%2Fandroid-studio-36.html&psig=AOvVaw3HK3IOIQ1sZUrBLX1Yl-Ci&ust=1618645582225000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjPqOmigvACFQAAAAAdAAAAABAD" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
